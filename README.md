@@ -1,3 +1,6 @@
-#ªø©°¤j¾Ç¸êºŞ¨t ¤j¼Æ¾Ú¤ÀªR¤èªk §@·~¤G
-##§Ú«Ü¨Ä¡A§Ú¦³¥æ§@·~
-##§Ú«Ü¨Ä¡A§Ú¦³¦b¹q¸£¦w¸Ë¦n³nÅé
+#é•·åºšå¤§å­¸è³‡ç®¡ç³» å¤§æ•¸æ“šåˆ†ææ–¹æ³• ä½œæ¥­äºŒ
+##æˆ‘å¾ˆä¹–ï¼Œæˆ‘æœ‰äº¤ä½œæ¥­
+##æˆ‘å¾ˆä¹–ï¼Œæˆ‘æœ‰åœ¨é›»è…¦å®‰è£å¥½è»Ÿé«”
+
+ ![alt text](https://github.com/94weilunxia/BigDataCGUIM/blob/master/%E6%9C%AA%E5%91%BD%E5%90%8D.png)
+![alt text](https://github.com/94weilunxia/BigDataCGUIM/commit/5e82d1ab8abc6d7abfaa2a1218c26c2518691fe9)
